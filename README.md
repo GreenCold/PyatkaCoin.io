@@ -1,0 +1,2 @@
+# PyatkaCoin.io
+Earn pyatkacoins
